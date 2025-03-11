@@ -1,2 +1,2 @@
 # study-8
-study about JPA(MySQL)
+practicing JPA(MySQL)
