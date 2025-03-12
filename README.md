@@ -1,2 +1,2 @@
 # study-8
-JPA(MySQL)
+sample source from the class about JPA(MySQL)
